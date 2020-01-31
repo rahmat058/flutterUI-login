@@ -62,6 +62,7 @@ class HomeScreen extends StatelessWidget {
                         Icon(Icons.lock, color: Colors.white), 'Password'),
                     Container(
                       width: 150,
+                      height: 50,
                       child: RaisedButton(
                         onPressed: () {},
                         color: Colors.deepOrange,
